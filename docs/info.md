@@ -17,4 +17,4 @@ Use AND Gate and simulate using Wokwi Basic Template
 
 ## External hardware
 
-LED 
+LED (Output)
